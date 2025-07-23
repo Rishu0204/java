@@ -8,6 +8,7 @@ Java is a Object-Oriented Programming Language,it is a high-level, object-orient
 
 Java was initially named "Oak", after an oak tree that stood outside James Gosling's office.
 Later, it was renamed to "Java", inspired by Java coffee — a type of coffee from Indonesia — while brainstorming names during a team discussion.
+
 ---
 
 ## ✅ Advantages of Java
